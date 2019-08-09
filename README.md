@@ -5,6 +5,6 @@ This repository consists of four homeworks associated with course "CAD Algorithm
 #### Homework 1 overview: 
 
 Implementation of a TCL shell in C language with the following features: 
-    ..* Tab completion
-    ..* History
-    ..* Basic os commands like ls, less
+    1. Tab completion
+    2. History
+    3. Basic os commands like ls, less
