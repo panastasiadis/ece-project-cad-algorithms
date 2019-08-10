@@ -1,8 +1,8 @@
 # eece-department-project-cad-algorithms
  
-This repository consists of four homeworks associated with course "CAD Algorithms". This course is part of the undergraduate studies of University of Thessally - EECE Department located in Volos, Greece.
+This repository consists of four homeworks associated with course "CAD Algorithms". This course is part of the undergraduate studies of University of Thessally - Electrical and Computer Engineering (ECE) Department located in Volos, Greece.
 
-The four homeworks function properly as standalone projects but as a whole, constitute the development of a bigger project which started from assignment one and the creation of a TCL Shell, continued with homeworks 2 and 3, where new features were added to the shell and reached its final form in homework 4 were the last requested features were added. All these features are commands that implement CAD algorithms and are mostly related to Logical-Synthesis topic. 
+The four homeworks function properly as standalone programs, but as a whole they compose the development of a bigger project which started from assignment one and the creation of a TCL Shell, continued with homeworks 2 and 3, where new features were added to the shell and reached its final form in homework 4 were the last requested features were added. All these features are commands that implement CAD algorithms and are mostly related to Logical-Synthesis topic. 
 
 #### Homework 1 overview: 
 
