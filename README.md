@@ -1,4 +1,4 @@
-# eece-department-project-cad-algorithms
+# ece-department-project-cad-algorithms
  
 This repository consists of four homeworks associated with course "CAD Algorithms". This course is part of the undergraduate studies of University of Thessally - Electrical and Computer Engineering (ECE) Department located in Volos, Greece.
 
