@@ -1,8 +1,22 @@
 # ece-department-project-cad-algorithms
- 
+
+## Repository Overview 
+
 This repository consists of four homeworks associated with course "CAD Algorithms". This course is part of the undergraduate studies of University of Thessally - Electrical and Computer Engineering (ECE) Department located in Volos, Greece.
 
-The four homeworks function properly as standalone programs, but as a whole they compose the development of a bigger project which started from assignment one and the creation of a TCL Shell, continued with homeworks 2 and 3, where new features were added to the shell and reached its final form in homework 4 were the last requested features were added. All these features are commands that implement CAD algorithms and are mostly related to Logical-Synthesis topic. 
+## Author
+
+My name is Panagiotis Anastasiadis and these projects were assigned to me during the time of my undergraduate studies and the enrollment of course "CAD Algorithms".
+
+#### Please consider the following:
+
+ If there are any sights of bad practices or ambiguities regarding the file structure, code quality, the general development of the projects or the entire repo management, please mind that this work attempt to strictly focus on the course nature and fit the requirements for the assignments set by it. Also, consider the lack of expertise or experience that comes along during the time of undergraduate studies. 
+
+**In any case, these projects do not represent professional work, rather a first indulgment in CAD Algorithms, Logical-Synthesis and the TCL\Tk C API.** 
+
+## Projects Overview
+
+The four homeworks function properly as standalone programs, but as a whole they compose the development of a bigger project, which started from assignment one and the creation of a TCL Shell, continued with homeworks 2 and 3, where new features were added to the shell and reached its final form in homework 4 and the last requested features that were integrated to project. All these features are commands that implement CAD algorithms and are mostly related to Logical-Synthesis topic. 
 
 #### Homework 1 overview: 
 
