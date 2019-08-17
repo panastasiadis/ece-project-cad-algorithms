@@ -1,8 +1,10 @@
-# ece-department-project-cad-algorithms
+# Implement CAD Algorithms on a TCL Shell using C and the TCL C API
 
 ## Repository Overview 
 
 This repository consists of four homeworks associated with course "CAD Algorithms". This course is part of the undergraduate studies of University of Thessally - Electrical and Computer Engineering (ECE) Department located in Volos, Greece.
+
+Link to the Department's official site: https://www.e-ce.uth.gr/?lang=en
 
 ## Author
 
@@ -12,7 +14,7 @@ My name is Panagiotis Anastasiadis and these projects were assigned to me during
 
  If there are any sights of bad practices or ambiguities regarding the file structure, code quality, the general development of the projects or the entire repo management, please mind that this work attempt to strictly focus on the course nature and fit the requirements for the assignments set by it. Also, consider the lack of expertise or experience that comes along during the time of undergraduate studies. 
 
-**In any case, these projects do not represent professional work, rather a first indulgment in CAD Algorithms, Logical-Synthesis and the TCL\Tk C API.** 
+**In any case, these projects do not represent professional work, rather an advocation with CAD Algorithms, Logical-Synthesis and the TCL C API.** 
 
 ## Projects Overview
 
