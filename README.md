@@ -2,13 +2,13 @@
 
 ## Repository Overview 
 
-This repository consists of four homeworks associated with course "CAD Algorithms". This course is part of the undergraduate studies of University of Thessally - Electrical and Computer Engineering (ECE) Department located in Volos, Greece.
+This repository consists of four homeworks associated with the course "CAD Algorithms". This course is a part of the undergraduate studies of University of Thessally - Electrical and Computer Engineering (ECE) Department located in Volos, Greece.
 
 Link to the Department's official site: https://www.e-ce.uth.gr/?lang=en
 
 ## Author
 
-My name is Panagiotis Anastasiadis and these projects were assigned to me during the time of my undergraduate studies and the enrollment of course "CAD Algorithms".
+My name is Panagiotis Anastasiadis and these projects were assigned to me during the time of my undergraduate studies and the enrollment of the course "CAD Algorithms".
 
 #### Please consider the following:
 
