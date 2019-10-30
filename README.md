@@ -1,4 +1,4 @@
-# Implement CAD Algorithms on a TCL Shell using C and the TCL C API
+# Implementing CAD Algorithms on a TCL Shell using C and the TCL C API
 
 ## Repository Overview 
 
